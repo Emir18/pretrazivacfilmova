@@ -1,0 +1,36 @@
+.App {
+  padding-top: 36px;
+  text-align: center;
+}
+
+.SearchForm-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.MovieList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.MovieList-item {
+  margin-bottom: 24px;
+  width: 48%;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #ffffff;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  
+}
+h4 {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 400;
+}
